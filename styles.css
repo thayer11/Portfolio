@@ -1,0 +1,22 @@
+.col-md-4, #nav {
+    border-bottom: 1px dashed black;
+}
+
+body {
+font-family: 'Source Code Pro', monospace;
+}
+
+.holly_pic {
+    border-radius: 50%;
+    height: 12em;
+    position: center;
+    width: 10em;
+    margin bottom: 3em;
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 1em;
+    padding: 1em;
+}
+
